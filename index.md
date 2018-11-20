@@ -31,5 +31,7 @@ The manifesto will be available once it's accepted.
 ## Authors
 
 [Alcides Fonseca](http://alcidesfonseca.com), LASIGE, Faculdade de Ciências da Universidade de Lisboa, Portugal
-Rick Kazman, University of Hawaii & Software Engineering Institute/CMU, USA
-Patricia Lago, Vrije Universiteit Amsterdam, The Netherlands
+
+[Rick Kazman](http://shidler.hawaii.edu/directory/rick-kazman/itm), University of Hawaii & Software Engineering Institute/CMU, USA
+
+[Patricia Lago](https://www.cs.vu.nl/~patricia/), Vrije Universiteit Amsterdam, The Netherlands
