@@ -13,6 +13,8 @@ The manifesto will be available once it's accepted.
 
 ## Additional References
 
+While the goal of the manifesto is to justify the need for action on this particular topic, the authors would like to provide some starting pointers on Green Software, how the ICT community tackles energy-awareness, what methodologies and good-practises exist to deal with both energy-awareness and energy-efficiency in different contexts, namely cloud computing and embeded devices.
+
 1. [Gelenbe, E., & Caseau, Y. (2015). The impact of information technology on energy consumption and carbon emissions. Ubiquity, 2015(June), 1.](https://www.researchgate.net/profile/Erol_Gelenbe/publication/282517963_The_impact_of_information_technology_on_energy_consumption_and_carbon_emissions/links/566d609908aea0892c525812/The-impact-of-information-technology-on-energy-consumption-and-carbon-emissions.pdf)
 2. [Calero, C., & Piattini, M. (Eds.). (2015). Green in software engineering (Vol. 3). Berlin: Springer.](https://link.springer.com/content/pdf/10.1007/978-3-319-08581-4.pdf)
 3. [Bener, A. B., Morisio, M., & Miranskyy, A. (2014). Green software. Ieee Software, 31(3), 36-39.](https://ieeexplore.ieee.org/iel7/52/6802981/06802987.pdf)
