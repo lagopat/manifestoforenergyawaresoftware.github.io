@@ -17,7 +17,7 @@ While the goal of the manifesto is to justify the need for action on this partic
 
 1. [Gelenbe, E., & Caseau, Y. (2015). The impact of information technology on energy consumption and carbon emissions. Ubiquity, 2015(June), 1.](https://www.researchgate.net/profile/Erol_Gelenbe/publication/282517963_The_impact_of_information_technology_on_energy_consumption_and_carbon_emissions/links/566d609908aea0892c525812/The-impact-of-information-technology-on-energy-consumption-and-carbon-emissions.pdf)
 2. [Calero, C., & Piattini, M. (Eds.). (2015). Green in software engineering (Vol. 3). Berlin: Springer.](https://link.springer.com/content/pdf/10.1007/978-3-319-08581-4.pdf)
-3. [Bener, A. B., Morisio, M., & Miranskyy, A. (2014). Green software. Ieee Software, 31(3), 36-39.](https://ieeexplore.ieee.org/iel7/52/6802981/06802987.pdf)
+3. [Bener, A. B., Morisio, M., & Miranskyy, A. (2014). Green software. IEEE Software, 31(3), 36-39.](https://ieeexplore.ieee.org/iel7/52/6802981/06802987.pdf)
 4. [Manotas, I., Bird, C., Zhang, R., Shepherd, D., Jaspan, C., Sadowski, C., ... & Clause, J. (2016, May). An empirical study of practitioners' perspectives on green software engineering. In Software Engineering (ICSE), 2016 IEEE/ACM 38th International Conference on (pp. 237-248). IEEE.](https://ieeexplore.ieee.org/abstract/document/7886907/)
 5. [Mastelic, T., Oleksiak, A., Claussen, H., Brandic, I., Pierson, J. M., & Vasilakos, A. V. (2015). Cloud computing: Survey on energy efficiency. ACM Computing Surveys (csur), 47(2), 33.](https://hal.archives-ouvertes.fr/hal-01153714/file/mastelic_13283.pdf)
 6. [Mittal, S. (2014). A survey of techniques for improving energy efficiency in embedded computing systems. arXiv preprint arXiv:1401.0765.](https://arxiv.org/pdf/1401.0765.pdf)
