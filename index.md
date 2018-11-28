@@ -2,10 +2,10 @@
 
 The manifesto will be available once it's accepted.
 
-## References
+## Manifesto References
 
 1. [‘Tsunami of data’ could consume one fifth of global electricity by 2025 (The Guardian; 11 December 2017)](https://www.theguardian.com/environment/2017/dec/11/tsunami-of-data-could-consume-fifth-global-electricity-by-2025)
-2. [Patricia  Lago,  Rick  Kazman,  Niklaus  Meyer,  Maurizio  Morisio,  Hausi  A  M ̈uller,  and  FrancesPaulisch.  Exploring initial challenges for green software engineering:  summary of the first greensworkshop, at icse 2012.ACM SIGSOFT Software Engineering Notes, 38(1):31–33, 2013.](http://greens.cs.vu.nl)
+2. [Patricia  Lago,  Rick  Kazman,  Niklaus  Meyer,  Maurizio  Morisio,  Hausi  A  Muller,  and  FrancesPaulisch.  Exploring initial challenges for green software engineering:  summary of the first greensworkshop, at icse 2012.ACM SIGSOFT Software Engineering Notes, 38(1):31–33, 2013.](http://greens.cs.vu.nl)
 3. [Becker, C., Chitchyan, R., Duboc, L., Easterbrook, S., Penzenstadler, B., Seyff, N., & Venters, C. C. (2015, May). Sustainability design and software: The Karlskrona Manifesto. In Proceedings of the 37th International Conference on Software Engineering-Volume 2 (pp. 467-476). IEEE Press.](https://arxiv.org/abs/1410.6968)
 4. [Pinto, G., & Castor, F. (2017). Energy efficiency: a new concern for application software developers. Communications of the ACM, 60(12), 68-75.](https://doi.org/10.1145/3154384)
 5. [Lago, P., Koçak, S. A., Crnkovic, I., & Penzenstadler, B. (2015). Framing sustainability as a property of software quality. Communications of the ACM, 58(10), 70-78.](https://research.vu.nl/en/publications/framing-sustainability-as-a-property-of-software-quality)
@@ -13,7 +13,7 @@ The manifesto will be available once it's accepted.
 
 ## Additional References
 
-While the goal of the manifesto is to justify the need for action on this particular topic, the authors would like to provide some starting pointers on Green Software, how the ICT community tackles energy-awareness, what methodologies and good-practises exist to deal with both energy-awareness and energy-efficiency in different contexts, namely cloud computing and embeded devices.
+While the goal of the manifesto is to justify the need for action on this particular topic, the authors would like to provide some initial pointers on Green Software, how the ICT community tackles energy-awareness, and what methodologies and good-practices exist to deal with both energy-awareness and energy-efficiency in different contexts, like cloud computing and embedded devices.
 
 1. [Gelenbe, E., & Caseau, Y. (2015). The impact of information technology on energy consumption and carbon emissions. Ubiquity, 2015(June), 1.](https://www.researchgate.net/profile/Erol_Gelenbe/publication/282517963_The_impact_of_information_technology_on_energy_consumption_and_carbon_emissions/links/566d609908aea0892c525812/The-impact-of-information-technology-on-energy-consumption-and-carbon-emissions.pdf)
 2. [Calero, C., & Piattini, M. (Eds.). (2015). Green in software engineering (Vol. 3). Berlin: Springer.](https://link.springer.com/content/pdf/10.1007/978-3-319-08581-4.pdf)
